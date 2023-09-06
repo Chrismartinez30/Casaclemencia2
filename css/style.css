@@ -403,7 +403,6 @@ button:focus{
 	margin: 0px;
 }
 
-.inner-menu-box{}
 .inner-menu-box .nav-pills .nav-link.active{
 	background: #A31008;
 }
@@ -686,7 +685,7 @@ button:focus{
 	margin-bottom: 15px;
 }
 .footer-area p.lead a:hover{
-	color: ##A31008;
+	color: #A31008;
 }
 .footer-area p a{
 	font-size: 18px;
@@ -724,7 +723,6 @@ button:focus{
     line-height: 50px;
     display: inline-block;
     padding: 0 10px;
-    float: left;
     width: 100%;
 	border: none;
 	cursor: pointer;
